@@ -1,6 +1,5 @@
 # Grover_Algorithm
-Application of Grover's Algorithm on a single-core classical computer.
-
+Application of quantum algorithm on a classical computer. Grover's Algorithm is a search and find algorithm returning the highest probability match in the input domain.
 Authors:	DK Lee, Derek Dang
 
 Class: 		GroverAlgorithm.java
