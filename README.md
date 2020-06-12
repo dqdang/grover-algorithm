@@ -19,7 +19,7 @@ Output:         The probability of finding the value.
 
 Notes:
 
-1)	To search for a term, enter in the decimal value. The program
+1)      To search for a term, enter in the decimal value. The program
 	calculates the probability using decimal values.
 
 2)      Reminder that this is a classical program running a quantum
