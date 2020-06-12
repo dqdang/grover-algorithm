@@ -17,9 +17,12 @@ Input:		numQubits - the number of qubits passing in the top wire.
 
 Output:         The probability of finding the value.
 
-Notes:	
+Notes:
+
 	1)	To search for a term, enter in the decimal value. The program
 		calculates the probability using decimal values.
-        2)      Remember that this is a classical program running a quantum
+
+
+        2)      Reminder that this is a classical program running a quantum
                 program. Running time of this program is O(2^n), but the quantum
                 version is O(√(2^n)), which is quadratic speedup.
