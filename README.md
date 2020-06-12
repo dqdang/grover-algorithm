@@ -20,7 +20,7 @@ Output:         The probability of finding the value.
 Notes:
 
 1)      To search for a term, enter in the decimal value. The program
-	calculates the probability using decimal values.
+        calculates the probability using decimal values.
 
 2)      Reminder that this is a classical program running a quantum
         program. Running time of this program is O(2^n), but the quantum
