@@ -1,4 +1,4 @@
-# Grover_Algorithm
+# Grover-Algorithm
 Application of quantum algorithm on a classical computer. Grover's Algorithm is a search and find algorithm returning the highest probable match in the input's domain.
 
 Authors:	DK Lee, Derek Dang
@@ -19,10 +19,9 @@ Output:         The probability of finding the value.
 
 Notes:
 
-	1)	To search for a term, enter in the decimal value. The program
-		calculates the probability using decimal values.
+1)	To search for a term, enter in the decimal value. The program
+	calculates the probability using decimal values.
 
-
-        2)      Reminder that this is a classical program running a quantum
-                program. Running time of this program is O(2^n), but the quantum
-                version is O(√(2^n)), which is quadratic speedup.
+2)      Reminder that this is a classical program running a quantum
+        program. Running time of this program is O(2^n), but the quantum
+        version is O(√(2^n)), which is quadratic speedup.
