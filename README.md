@@ -1,14 +1,13 @@
 # Grover-Algorithm
-Application of quantum algorithm on a classical computer. Grover's Algorithm is a search and find algorithm returning the highest probable match in the input's domain.
+Application of a quantum algorithm on a classical computer. Grover's algorithm is a search and find solution returning the highest probable match in the input's domain of an unsorted database.
 
 Authors:	DK Lee, Derek Dang
 
 Class: 		GroverAlgorithm.java
 
-Purpose:	Search a list for an element. Returns a probability of that element.
+Purpose:	Search a database for an element. Returns a probability of that element.
 
-Compile:	Compile in Terminal.
-			javac Driver.java
+Compile:	javac Driver.java
 
 Run:		java Driver	
 
