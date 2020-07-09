@@ -12,9 +12,9 @@ Compile:	javac Driver.java
 Run:		java Driver	
 
 Input:		numQubits - the number of qubits passing in the top wire.
-		    value - the special value to be found.
+		value - the special value to be found.
 
-Output:         The probability of finding the value.
+Output:         The probability of finding the passed in value.
 
 Notes:
 
