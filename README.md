@@ -1,5 +1,5 @@
 # Grover-Algorithm
-Application of a quantum algorithm on a classical machine. Grover's algorithm is a search and find solution returning the highest probable match in an unsorted domain.
+Quantum algorithm application on a classical machine. Grover's algorithm is a search and find solution returning the highest probable match in an unsorted domain.
 
 ## Authors:<br />
 DK Lee, Derek Dang
